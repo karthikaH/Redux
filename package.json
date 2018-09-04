@@ -1,0 +1,14 @@
+{
+  "name": "redux-alone",
+  "version": "1.0.0",
+  "description": "learning redux",
+  "main": "redux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karthika",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
